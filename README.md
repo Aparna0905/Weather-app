@@ -48,5 +48,3 @@ const apiKey = "YOUR_API_KEY";
 * Location-based weather
 * Dark mode
 
-
-If you want, I can also make a **very strong resume-ready README** (with badges + live demo + screenshots) 👍
